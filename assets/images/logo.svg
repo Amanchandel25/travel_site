@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="129" height="63.549" viewBox="0 0 129 63.549">
+  <g transform="translate(-71 -68)">
+    <path d="M34.584-2.549C51.153-2.549,60,13.431,60,30c0,9.063-3.311,18.119-9.877,23.8C45.075,58.175,37.506,60,30,60A30,30,0,0,1,0,30C0,13.431,18.015-2.549,34.584-2.549Z" transform="translate(71.5 71.049)" fill="none" stroke="#b48d62" stroke-width="1" opacity="0.8"/>
+    <path data-name="bg" d="M28.82-2.549C42.627-2.549,50,10.768,50,24.575c0,7.552-2.759,15.1-8.231,19.836C37.563,48.055,31.255,49.575,25,49.575a25,25,0,0,1-25-25C0,10.768,15.013-2.549,28.82-2.549Z" transform="translate(76.5 76.048)" fill="none" stroke="#b48d62" stroke-width="1" opacity="0.8"/>
+    <text id="Andaaz" transform="translate(80 118)" font-size="40" font-family="CormorantGaramond-Bold, Cormorant Garamond" font-weight="700"><tspan x="0" y="0">Andaaz</tspan></text>
+  </g>
+</svg>
